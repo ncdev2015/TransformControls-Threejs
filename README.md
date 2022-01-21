@@ -1,8 +1,8 @@
 # transform-controls-threejs
 
-This example shows how to use transform controls to add visual editors that let you move, rotate, and translate a 3D object.
+This example shows how to use transform controls to add visual editors that moves, rotates, and translates an 3D object.
 
-Demo:
+Sample:
 
 ![Example](https://github.com/ncdev2015/transform-controls-threejs/blob/master/public/sample.png)
 
