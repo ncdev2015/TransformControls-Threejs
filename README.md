@@ -4,7 +4,7 @@ This example shows how to use transform controls to add visual editors that let 
 
 Demo:
 
-![Example](https://github.com/ncdev2015/transform-controls-threejs/tree/master/public/sample.png)
+![Example](https://github.com/ncdev2015/transform-controls-threejs/blob/master/public/sample.png)
 
 ## Project setup
 
