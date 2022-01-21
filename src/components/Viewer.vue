@@ -3,18 +3,16 @@
 </template>
 
 <script>
-import ViewerJS from './classes/viewer.js'
+import ViewerJS from "./classes/viewer.js";
 export default {
-  name: 'Viewer',
+  name: "Viewer",
   componentes: {
-    ViewerJS
+    ViewerJS,
   },
   data() {
     return {
-      width: 100,
-      height: 100,
-      viewer: null
-    }
+      viewer: null,
+    };
   },
   mounted() {
     this.initViewer();
@@ -25,14 +23,16 @@ export default {
       this.viewer = new ViewerJS(window.innerWidth, window.innerHeight);
     },
     addViewer() {
-      document.getElementById("viewerjs").appendChild(this.viewer.renderer.domElement);
-    }
-  },  
-}
+      document
+        .getElementById("viewerjs")
+        .appendChild(this.viewer.renderer.domElement);
+    },
+  },
+};
 </script>
 
 <style scoped>
-  #viewer {
-    float: left;
-  }
+#viewer {
+  float: left;
+}
 </style>
