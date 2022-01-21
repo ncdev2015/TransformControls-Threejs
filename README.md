@@ -2,15 +2,17 @@
 
 This example shows how to use transform controls to add visual editors that moves, rotates, and translates an 3D object.
 
-Sample using Translate mode:
+## Usage example
+
+Using Translate mode:
 
 ![Translate mode](https://github.com/ncdev2015/transform-controls-threejs/blob/master/public/translate.png)
 
-Sample using Rotate mode:
+Using Rotate mode:
 
 ![Rotate mode](https://github.com/ncdev2015/transform-controls-threejs/blob/master/public/rotate.png)
 
-Sample using Scale mode:
+Using Scale mode:
 
 ![Scale mode](https://github.com/ncdev2015/transform-controls-threejs/blob/master/public/scale.png)
 
