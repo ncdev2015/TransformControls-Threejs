@@ -1,6 +1,6 @@
 # transform-controls-threejs
 
-This example shows how to use transform controls to add visual editors that moves, rotates, and scales an 3D object.
+This example shows you how to use transform controls to add visual editors that moves, rotates, and scales an 3D object.
 
 ## Usage example
 
